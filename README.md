@@ -39,14 +39,6 @@ Foco atual em desenvolvimento Mobile/Web e arquitetura de software:
 
 ---
 
-### Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoHSouza&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
-</div>
-
----
-
 ### Contato
 
 - [LinkedIn](https://www.linkedin.com/in/diego-h-souza/)
