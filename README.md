@@ -42,7 +42,7 @@ Foco atual em desenvolvimento Mobile/Web e arquitetura de software:
 ### Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoHSouza&show_icons=false&theme=dracula&hide_border=true" alt="Estatísticas do Diego" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoHSouza&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
 ---
