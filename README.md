@@ -1,16 +1,53 @@
-## Hi there 👋
+# Diego Souza
 
-<!--
-**DiegoHSouza/DiegoHSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor de Software | Estudante de Ciência da Computação**
 
-Here are some ideas to get you started:
+Transformando mais de 10 anos de experiência em Liderança de Vendas em soluções de Engenharia de Software. Meu foco é unir a compreensão das necessidades reais dos negócios e dos clientes com o desenvolvimento de aplicações práticas, escaláveis e centradas no usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Sobre mim
+
+- Educação: Ciência da Computação na Universidade Anhembi Morumbi (Previsão: 2026).
+- Localização: São José dos Campos, SP.
+- Background: Especialista em identificar gargalos operacionais e criar soluções tecnológicas. Atualmente, atuo na digitalização de processos automotivos em concessionária.
+
+---
+
+### Projetos em Destaque
+
+* V360 (PWA): Aplicação desenvolvida para automatizar e otimizar o processo de avaliação de veículos seminovos. Uma solução arquitetada para resolver um problema real de negócios, reduzindo tempo de operação e falhas manuais.
+* App Social para Audiovisual: Plataforma interativa em desenvolvimento, focada na construção de comunidades, catálogos de conteúdo e gestão de usuários.
+* LottoMind: Aplicação baseada em lógica de programação e análise de probabilidades.
+
+---
+
+### Stack Tecnológico
+
+Foco atual em desenvolvimento Mobile/Web e arquitetura de software:
+
+* Linguagens: TypeScript e Python.
+* Frameworks & Tecnologias: React Native.
+* Arquitetura & Boas Práticas: Clean Architecture e uso eficiente de IA para suporte ao desenvolvimento.
+* Controle de Versão: Git e GitHub.
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,python,react,github,vscode&perline=10" />
+  </a>
+</p>
+
+---
+
+### Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoHSouza&show_icons=false&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Diego" />
+</div>
+
+---
+
+### Contato
+
+- [LinkedIn](https://www.linkedin.com/in/diego-h-souza/)
+- [E-mail](mailto:diegosouza.contatoprofissional@gmail.com)
