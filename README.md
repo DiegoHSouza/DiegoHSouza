@@ -1,45 +1,22 @@
 # Diego Souza
+**Desenvolvedor de Software | Ciência da Computação **
 
-**Desenvolvedor de Software | Estudante de Ciência da Computação**
+Desenvolvedor focado em Mobile e Web com sólida vivência em negócios, atualmente me aprofundando em Python. Minha especialidade é mapear gargalos operacionais e construir soluções tecnológicas escaláveis, unindo visão comercial à engenharia de software para resolver problemas do mundo real.
 
-Transformando mais de 10 anos de experiência em Liderança de Vendas em soluções de Engenharia de Software. Meu foco é unir a compreensão das necessidades reais dos negócios e dos clientes com o desenvolvimento de aplicações práticas, escaláveis e centradas no usuário.
 
----
+### Principais Projetos
+- **AutoFlow (PWA):** Aplicação em produção (uso real). Automatiza e digitaliza o fluxo de vistorias automotivas, otimizando a operação diária e reduzindo falhas no processo da concessionária.
+- **CineSync:** Plataforma interativa para o nicho audiovisual, combinando consumo de catálogo de mídia com recursos de comunidade e gestão de usuários.
+- **LottoMind:** Aplicação orientada a dados, desenvolvida com foco em lógica algorítmica, matemática e análise de probabilidades.
 
-### Sobre mim
-
-- Educação: Ciência da Computação na Universidade Anhembi Morumbi (Previsão: 2026).
-- Localização: São José dos Campos, SP.
-- Background: Especialista em identificar gargalos operacionais e criar soluções tecnológicas. Atualmente, atuo na digitalização de processos automotivos em concessionária.
-
----
-
-### Projetos em Destaque
-
-* V360 (PWA): Aplicação desenvolvida para automatizar e otimizar o processo de avaliação de veículos seminovos. Uma solução arquitetada para resolver um problema real de negócios, reduzindo tempo de operação e falhas manuais.
-* App Social para Audiovisual: Plataforma interativa em desenvolvimento, focada na construção de comunidades, catálogos de conteúdo e gestão de usuários.
-* LottoMind: Aplicação baseada em lógica de programação e análise de probabilidades.
-
----
-
-### Stack Tecnológico
-
-Foco atual em desenvolvimento Mobile/Web e arquitetura de software:
-
-* Linguagens: TypeScript e Python.
-* Frameworks & Tecnologias: React Native.
-* Arquitetura & Boas Práticas: Clean Architecture e uso eficiente de IA para suporte ao desenvolvimento.
-* Controle de Versão: Git e GitHub.
+### Tecnologias
+React Native | TypeScript | Python | Clean Architecture
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,python,react,github,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=ts,python,react,github,vscode" height="40" />
   </a>
 </p>
 
----
-
 ### Contato
-
-- [LinkedIn](https://www.linkedin.com/in/diego-h-souza/)
-- [E-mail](mailto:diegosouza.contatoprofissional@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/diego-h-souza/) • [E-mail](mailto:diegosouza.contatoprofissional@gmail.com)
